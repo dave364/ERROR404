@@ -6,7 +6,7 @@ Cuando un usuario accede a una URL no válida en tu sitio web, será redirigido 
 La página mostrará un mensaje de error, una imagen representativa y un botón para redireccionar a otra página de error.
 
 # Redirección a otra Página de Error:
-Al hacer clic en el botón "Ir a otra página", la página se actualizará y mostrará una segunda página de error con un mensaje diferente.
+Al hacer clic en el botón "intentar otra vez", la página se actualizará y mostrará una segunda página de error con un mensaje diferente.
 
 Esta segunda página de error se carga dinámicamente utilizando JavaScript sin recargar toda la página.
 
@@ -22,7 +22,7 @@ Abre el archivo HTML en tu navegador web.
 
 Verifica que la página de error 404 se muestra correctamente.
 
-Haz clic en el botón "Ir a otra página".
+Haz clic en el botón "intentar otra vez".
 
 Observa cómo la página se actualiza y muestra la segunda página de error.
 
